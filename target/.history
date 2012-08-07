@@ -1,0 +1,10 @@
+session list
+library-dependencies
+load[
+loadp
+exit
+run
+exit
+show project
+show compile
+exit
